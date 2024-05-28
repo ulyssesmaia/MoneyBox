@@ -30,34 +30,35 @@
 ## Descrição do projeto 
 
 <p align="justify">
-    Projeto surgiu como uma solução webbased de organização financeira através de uma plataforma que permite ao usuário o pagamento do IUC de viaturas, de motas à aviões, parcelando antecipadamente o pagamento       para evitar que assim seja necessário o pagamento em atraso com caumo. 
+  Projeto surgiu como uma solução webbased de organização financeira através de uma plataforma que permite ao usuário o pagamento do IUC de viaturas, de motas à aviões, parcelando antecipadamente o pagamento       para evitar que assim seja necessário o pagamento de caumo por atraso no pagamento, pelo fato da plataforma ficar responsável pelo seu pagamento. A plataforma permite o parcelamento em ate 12 vezes do valor      do IUC de acordo com o prazo de pagamento do mesmo, com a cobrança de uma taxa de administração.
 </p>
 
-## Funcionalidades
+## Funcionalidades Faseadas
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Fase 1 - Reconstrução
 
-:heavy_check_mark: Funcionalidade 2  
+- Arquitetura da Solução
+- Cálculo dos valores do IUC no ano
+- Reconstrução do Backoffice atual
 
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Aprimoramento Tecnologico
 
-:heavy_check_mark: Funcionalidade 4  
+- Integração base de dados matrículas
+- Integração bancária para autorizações de pagamento
 
-## Layout ou Deploy da Aplicação :dash:
+## Layout :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+&#128187 Layout Interface cálculo
+O layout a ser seguido atualmente se baseia no site https://www.moneybox.pt
 
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
+&#128187 Layout Interface Backoffice
+O layout atual se baseará em: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
 
-...
-
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
+Mínimo possíveis
 
 ## Como rodar a aplicação :arrow_forward:
 
