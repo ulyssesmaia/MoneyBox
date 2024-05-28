@@ -17,9 +17,9 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Funcionalidades Faseadas](#funcionalidades-faseadas)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Deploy da Aplicação](#layout)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -30,29 +30,32 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Projeto surgiu como uma solução webbased de organização financeira através de uma plataforma que permite ao usuário o pagamento do IUC de viaturas, de motas à aviões, parcelando antecipadamente o pagamento       para evitar que assim seja necessário o pagamento de caumo por atraso no pagamento, pelo fato da plataforma ficar responsável pelo seu pagamento. A plataforma permite o parcelamento em ate 12 vezes do valor      do IUC de acordo com o prazo de pagamento do mesmo, com a cobrança de uma taxa de administração.
+  Projeto surgiu como uma solução webbased de organização financeira através de uma plataforma que permite ao usuário o pagamento do IUC de viaturas, de motas à aviões, parcelando antecipadamente o pagamento       para evitar que assim seja necessário o pagamento de caumo por atraso no pagamento, pelo fato da plataforma ficar responsável pelo seu pagamento. A plataforma permite o parcelamento em ate 12 vezes do valor do IUC de acordo com o prazo de pagamento do mesmo, com a cobrança de uma taxa de administração.
 </p>
 
 ## Funcionalidades Faseadas
-
+</p>
 :heavy_check_mark: Fase 1 - Reconstrução
-
+</p>
 - Arquitetura da Solução
 - Cálculo dos valores do IUC no ano
 - Reconstrução do Backoffice atual
-
+</p>
 :heavy_check_mark: Aprimoramento Tecnologico
-
+</p>
 - Integração base de dados matrículas
 - Integração bancária para autorizações de pagamento
+</p>
 
-## Layout :dash:
+## Layout
 
-:&#128187: Layout Interface cálculo
+</p>
+💻 Layout Interface cálculo
 O layout a ser seguido atualmente se baseia no site https://www.moneybox.pt
-
-:&#128187: Layout Interface Backoffice
+</p>
+💻 Layout Interface Backoffice
 O layout atual se baseará em: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+</p>
 
 ## Pré-requisitos
 
