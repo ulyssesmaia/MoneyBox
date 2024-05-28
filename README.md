@@ -48,10 +48,10 @@
 
 ## Layout :dash:
 
-&#128187 Layout Interface cálculo
+:&#128187: Layout Interface cálculo
 O layout a ser seguido atualmente se baseia no site https://www.moneybox.pt
 
-&#128187 Layout Interface Backoffice
+:&#128187: Layout Interface Backoffice
 O layout atual se baseará em: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Pré-requisitos
