@@ -63,8 +63,16 @@ O layout atual se baseará em: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Mínimo possíveis
 
-## Como rodar a aplicação :arrow_forward:
+## Tabelas para se basear :arrow_forward:
 
+|Primeira matrícula PT/UE/EEE de 1981 a Junho-07|
+Cilindrada (cm3)|Matrícula de 96 a Junho-07|Matrícula de 90 a 95|Matrícula de 81 a 89|
+|Até 1.000|19,90€|12,20€|Isento|
+|1.001 a 1.300|39,95€|22,45€|12,55€|
+|1.301 a 1.750|62,40€|34,87€|17,49€|
+|1.751 a 2.600|158,31€|83,49€|36,09€|
+|2.601 a 3.500|287,49€|156,54|79,72€|
+|Mais de 3.500|512,23€|263,11€|120,90€|
 No terminal, clone o projeto: 
 
 ```
