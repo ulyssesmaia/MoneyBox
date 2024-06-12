@@ -38,7 +38,9 @@ O que é o IUC?
 O IUC é um imposto anual que incide sobre a propriedade de um veículo (e não sobre a circulação), pago até a matrícula ser cancelada, cujos valores são actualizados por norma todos os anos em Janeiro.</p>
 No caso dos automóveis, é o imposto que substitui o antigo "selo do carro" ou "selo automóvel" e não deve ser confundido com o ISV, que é um imposto pago apenas quando o veículo é matriculado pela primeira vez em Portugal.
 </p>
-## Funcionalidades Faseadas
+
+## Funcionalidades-Faseadas 
+
 </p>
 :heavy_check_mark: Fase 1 - Reconstrução
 </p>
