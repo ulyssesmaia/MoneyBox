@@ -74,6 +74,12 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
     - [Sobre o cálculo do IUC](#pré-requisitos)
 </p>
 
+## Fluxogramas
+
+**Direcionamento Site -» Área Cliente**
+<img src="Fluxo até Área Cliente.png" alt="Fluxo Área Cliente">
+
+
 ## Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
