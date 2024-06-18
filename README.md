@@ -48,10 +48,12 @@ No caso dos automóveis, é o imposto que substitui o antigo "selo do carro" ou 
 - Cálculo dos valores do IUC no ano
 - Reconstrução do Backoffice atual
 </p>
-:heavy_check_mark: Aprimoramento Tecnologico
+:heavy_check_mark: Aprimoramento Tecnológico
 </p>
 - Integração base de dados matrículas
 - Integração bancária para autorizações de pagamento
+- Integração consultas matrículas
+- Integração com CRM
 </p>
 
 ## Layout
@@ -61,7 +63,15 @@ No caso dos automóveis, é o imposto que substitui o antigo "selo do carro" ou 
 O layout a ser seguido atualmente se baseia no site https://www.moneybox.pt
 </p>
 💻 Layout Interface Backoffice
-O layout atual se baseará em: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+O layout atual se baseará em nos conteúdos dos formulários e tabelas:
+- Dados formulários:
+    - Cadastro Clientes
+    - Cadastro veículos
+    - Relatório Financeiro
+          - Vendas Mês
+          - Categorias
+- Tabelas:
+    - [Sobre o cálculo do IUC](#pré-requisitos)
 </p>
 
 ## Pré-requisitos
@@ -70,7 +80,7 @@ O layout atual se baseará em: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 Mínimo possíveis
 
-## Sobre o cálculo do IUC :arrow_forward:
+## Sobre o cálculo do IUC
 </p>
 A primeira forma de cálculo, com base no combustível, cilindrada e ano da matrícula, por escalões, aplica-se aos veículos matriculados pela primeira vez em Portugal ou num país da UE/EEE até 30 de Junho de 2007. Tecnicamente, segundo o Código do IUC, estes veículos estão enquadrados na categoria A.</p>
 A segunda forma de cálculo, com base no combustível, ano da matrícula, cilindrada e emissões de CO2, por escalões, aplica-se aos veículos matriculados em Portugal, na UE ou no EEE a partir de 1 de Julho de 2007, e aos veículos cuja matrícula portuguesa seja a partir de 1 de Julho de 2007 mas cuja primeira matrícula foi num país fora da UE + EEE. Estes veículos pertencem à categoria B do Código do IUC.
@@ -158,7 +168,7 @@ Gasóleo
 |1.751 a 2.500|20,12€|
 |Mais de 2.500|68,85€|
 
-## Veículos comerciais de transporte particular com peso bruto inferior a 12t
+**Veículos comerciais de transporte particular com peso bruto inferior a 12t**
 Esta é a tabela de IUC para 2024 dos veículos de transporte particular com peso bruto inferior a 12t (categoria C). Esta tabela é independente do ano da matrícula.
 
 |Peso Bruto (kg)|	Taxa
@@ -168,7 +178,7 @@ Esta é a tabela de IUC para 2024 dos veículos de transporte particular com pes
 |3.501 a 7.500|139,47€
 |7.501 a 11.999|226,24€
 
-## Motociclos, ciclomotores, triciclos e quadriciclos
+**Motociclos, ciclomotores, triciclos e quadriciclos**
 
 |Cilindrada (cm3)|Matrícula de 97 a 24|Matrícula de 92 a 96
 | :--------: | :--------: | :--------: |
@@ -179,18 +189,11 @@ Esta é a tabela de IUC para 2024 dos veículos de transporte particular com pes
 |501 a 750|63,62€|37,47€
 |Mais de 750|138,15€|67,76€
 
-
-Coloque um passo a passo para executar os testes
-
-```
-$ npm test, rspec, etc 
-```
-
-## Casos de Uso
+## Jornada do Cliente
 
 Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
 
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
+.
 
 ## JSON :floppy_disk:
 
