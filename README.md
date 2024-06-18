@@ -11,7 +11,7 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: :warning: (concluído, em desenvolvimento, etc)
 
 ### Tópicos 
 
@@ -77,8 +77,10 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
 ## Fluxogramas
 
 **Direcionamento Site -» Área Cliente**
-<img src="Fluxo até Área Cliente.png" alt="Fluxo Área Cliente">
+<img src="Fluxo até Área Cliente.png" alt="Jornada do Cliente">
 
+**Direcionamento Site -» Área Cliente**
+<img src="Fluxo Area Cliente.png" alt="Fluxo Área Cliente">
 
 ## Pré-requisitos
 
