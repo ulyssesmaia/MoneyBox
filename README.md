@@ -54,8 +54,11 @@ No caso dos automóveis, é o imposto que substitui o antigo "selo do carro" ou 
 :heavy_check_mark: Aprimoramento Tecnológico
 </p>
 - Integração base de dados matrículas
+
 - Integração bancária para autorizações de pagamento
+
 - Integração consultas matrículas
+
 - Integração com CRM
 </p>
 
