@@ -21,9 +21,9 @@
 
 :small_blue_diamond: [Layout do Projeto](#layout)
 
-🔹[Jornada do Cliente](Jornada do Cliente)
+🔹[Jornada do Cliente](Jornada_Cliente)
 
-🔹[Tabelas IUC](Sobre o cálculo do IUC)
+🔹[Tabelas IUC](Tabelas_IUC)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -78,7 +78,7 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
     - [Sobre o cálculo do IUC](#pré-requisitos)
 </p>
 
-## Jornada do Cliente
+## Jornada_Cliente
 
 **Direcionamento Site -» Área Cliente**
 <img src="Fluxo até Área Cliente.png" alt="Jornada do Cliente">
@@ -92,7 +92,7 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
 
 Mínimo possíveis
 
-## Sobre o cálculo do IUC
+## Tabelas_IUC
 </p>
 A primeira forma de cálculo, com base no combustível, cilindrada e ano da matrícula, por escalões, aplica-se aos veículos matriculados pela primeira vez em Portugal ou num país da UE/EEE até 30 de Junho de 2007. Tecnicamente, segundo o Código do IUC, estes veículos estão enquadrados na categoria A.</p>
 A segunda forma de cálculo, com base no combustível, ano da matrícula, cilindrada e emissões de CO2, por escalões, aplica-se aos veículos matriculados em Portugal, na UE ou no EEE a partir de 1 de Julho de 2007, e aos veículos cuja matrícula portuguesa seja a partir de 1 de Julho de 2007 mas cuja primeira matrícula foi num país fora da UE + EEE. Estes veículos pertencem à categoria B do Código do IUC.
