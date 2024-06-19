@@ -19,11 +19,14 @@
 
 :small_blue_diamond: [Funcionalidades Faseadas](#funcionalidades-faseadas)
 
-:small_blue_diamond: [Deploy da Aplicação](#layout)
+:small_blue_diamond: [Layout do Projeto](#layout)
+
+🔹[Jornada do Cliente](Jornada do Cliente)
+
+🔹[Tabelas IUC](Sobre o cálculo do IUC)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 ... 
 
@@ -61,6 +64,7 @@ No caso dos automóveis, é o imposto que substitui o antigo "selo do carro" ou 
 </p>
 💻 Layout Interface cálculo
 O layout a ser seguido atualmente se baseia no site https://www.moneybox.pt
+
 </p>
 💻 Layout Interface Backoffice
 O layout atual se baseará em nos conteúdos dos formulários e tabelas:
@@ -74,7 +78,7 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
     - [Sobre o cálculo do IUC](#pré-requisitos)
 </p>
 
-## Fluxogramas
+## Jornada do Cliente
 
 **Direcionamento Site -» Área Cliente**
 <img src="Fluxo até Área Cliente.png" alt="Jornada do Cliente">
@@ -196,41 +200,6 @@ Esta é a tabela de IUC para 2024 dos veículos de transporte particular com pes
 |351 a 500|21,18€|12,53€
 |501 a 750|63,62€|37,47€
 |Mais de 750|138,15€|67,76€
-
-## Jornada do Cliente
-
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-.
-
-## JSON :floppy_disk:
-
-### Usuários: 
-
-|name|email|password|token|avatar|
-| -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
-
-... 
-
-Se quiser, coloque uma amostra do banco de dados 
-
-## Iniciando/Configurando banco de dados
-
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
-
-## Linguagens, dependencias e libs utilizadas :books:
-
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
-
-...
-
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
 
 ## Tarefas em aberto
 
