@@ -19,11 +19,11 @@
 
 :small_blue_diamond: [Layout do Projeto](#layout)
 
-🔹[Jornada do Cliente](Jornada_Cliente)
+🔹[Jornada do Cliente](#Jornada_Cliente)
 
-🔹[Tabelas IUC](Tabelas_IUC)
+🔹[Tabelas IUC](#Tabelas_IUC)
 
-🔹[Parcelamento](Parcelamento)
+🔹[Parcelamento](#Parcelamento)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
@@ -206,8 +206,11 @@ Esta é a tabela de IUC para 2024 dos veículos de transporte particular com pes
 
 ## Parcelamento
 1x custo fixo de €12 de comissão
+
 2x custo fixo de €14 de comissão
+
 4x custo fixo de €16 de comissão
+
 12x custo fixo de €18 de comissão
 
 ## Tarefas em aberto
