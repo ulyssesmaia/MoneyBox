@@ -84,7 +84,7 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
 ## Jornada_Cliente
 
 **Direcionamento Site -» Área Cliente**
-<img src="Fluxo até Área Cliente.png" alt="Jornada do Cliente">
+<img src="Fluxo Cadastro.png" alt="Jornada do Cliente">
 
 **Direcionamento Site -» Área Cliente**
 <img src="Fluxo Area Cliente.png" alt="Fluxo Área Cliente">
