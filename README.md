@@ -23,6 +23,8 @@
 
 🔹[Tabelas IUC](Tabelas_IUC)
 
+🔹[Parcelamento](Parcelamento)
+
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
 
@@ -76,7 +78,7 @@ O layout atual se baseará em nos conteúdos dos formulários e tabelas:
           - Vendas Mês
           - Categorias
 - Tabelas:
-    - [Sobre o cálculo do IUC](#pré-requisitos)
+    - [Tabelas_IUC](#Tabelas_IUC)
 </p>
 
 ## Jornada_Cliente
@@ -201,6 +203,12 @@ Esta é a tabela de IUC para 2024 dos veículos de transporte particular com pes
 |351 a 500|21,18€|12,53€
 |501 a 750|63,62€|37,47€
 |Mais de 750|138,15€|67,76€
+
+## Parcelamento
+1x custo fixo de €12 de comissão
+2x custo fixo de €14 de comissão
+4x custo fixo de €16 de comissão
+12x custo fixo de €18 de comissão
 
 ## Tarefas em aberto
 
